@@ -1,6 +1,11 @@
 # MacroDetectMetin
 Macro Detector for Metin2 (Mouse and Keyboard)
 
+<h3><strong>PLEASE READ!!!</strong></h3>
+
+<h2><strong style="color: red;">⚠️ PLEASE DONT BAN PEOPLE AFTER DETECTION! VERIFY MANUAL THAT PLAYER IS CHEATING!!! ⚠️</strong></h2>
+
+<h3>Sometimes it can do false positives from Mouse / Keyboard software (but 90% of them do it from their Kernel Driver)</h3>
 
 
 
